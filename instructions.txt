@@ -1,2 +1,9 @@
-1. Clone a repository 
-git clone git@github.com:joobog/tutorial.git
+The primary repository is on Github
+The fork is on expr
+
+1. Fork repository
+
+1.1. Clone a repository 
+git clone git@github.com:joobog/tutorial.git git-tutorial-fork
+1.2. Add another remote target
+git remote add upstream git@github.com:joobog/tutorial.git
